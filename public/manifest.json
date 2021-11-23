@@ -1,0 +1,22 @@
+{
+  "short_name": "GrocerApp Lite",
+  "name": "GrocerApp Lite",
+  "icons": [
+    {
+      "src": "image/ic_launcher_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "image/ic_launcher_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "gcm_sender_id": "212834489855",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
