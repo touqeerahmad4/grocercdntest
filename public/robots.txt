@@ -1,3 +1,20 @@
-# https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Disallow:
+
+# Sitemap files
+Sitemap: https://grocerapp.pk/sitemap_index.xml
+Sitemap: https://grocerapp.pk/sitemap_subcategories.xml
+Sitemap: https://grocerapp.pk/sitemap_categories.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_fresh-meat.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_frozen-and-chilled.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_pan-shop.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_otc-and-wellness.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_bakery-and-dairy.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_fruits-and-vegetables.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_dry-fruit-and-nuts.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_beverages.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_home-care.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_baby-care.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_instant-food.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_personal-care.xml
+Sitemap: https://grocerapp.pk/sitemap_products_of_grocery.xml
+Sitemap: https://grocerapp.pk/sitemap_brands.xml
